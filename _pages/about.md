@@ -90,8 +90,9 @@ I have been collaborating with [Yao Wan](http://wanyao.me), Yi Gui on research i
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 12px;">
   <img src="images/profile2.png" alt="boyfriend" width="200" style="border-radius: 12px;" />
   <div>
-    <p><em>• 2024.10</em><br />
-    My handsome boyfriend 💖💖💖✨</p>
+    <p>
+    My handsome boyfriend 💖💖💖✨
+    </p>
   </div>
 </div>
 
