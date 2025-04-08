@@ -111,7 +111,7 @@ I have been collaborating with [Yao Wan](http://wanyao.me), Yi Gui on research i
 
 <!-- 照片 2 -->
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 16px;">
-  <img src="images/3.png" alt="sweet moment 2" width="160" style="border-radius: 8px;" />
+  <img src="images/3.jpg" alt="sweet moment 2" width="160" style="border-radius: 8px;" />
   <div>
     <p style="margin: 0;">
       在人海中，你一抬头的模样我永远记得，那就是我心动的样子💭💗
@@ -121,7 +121,7 @@ I have been collaborating with [Yao Wan](http://wanyao.me), Yi Gui on research i
 
 <!-- 照片 3 -->
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 16px;">
-  <img src="images/4.png" alt="sweet moment 3" width="160" style="border-radius: 8px;" />
+  <img src="images/4.jpg" alt="sweet moment 3" width="160" style="border-radius: 8px;" />
   <div>
     <p style="margin: 0;">
       谢谢你陪我走过四季，这一生有你，就已经很圆满了🌸❄️🍂🌞
