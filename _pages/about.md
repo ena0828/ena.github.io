@@ -85,46 +85,45 @@ Shu Pu\*, Yaochen Wang\*, Dongping Chen\*, Yuhang Chen\*, Guohao Wang\*, Qi Qin\
 I have been collaborating with [Yao Wan](http://wanyao.me), Yi Gui on research in UI Intelligence. Additionally, I have been working alongside Yao Wan and Dongping Chen on MLLM-as-a-Judge. Looking ahead, I aspire to delve into MCTS-UI.
 -->
 
-## 🍓 Boyfriend
-
-<!-- 主照片 -->
+# 🧸 Our Little Love Story
+<!-- Main photo -->
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 20px;">
   <img src="images/profile2.png" alt="boyfriend" width="200" style="border-radius: 12px;" />
   <div>
     <p style="margin: 0;">
-      <em>• 2024.10</em><br />
+      <em>• Oct 2024</em><br />
       My handsome boyfriend 💖💖💖✨<br />
-      我心里永远的第一名！
+      Forever the No.1 in my heart!
     </p>
   </div>
 </div>
 
-<!-- 照片 1 -->
+<!-- Photo 1 -->
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 16px;">
   <img src="images/image.png" alt="sweet moment 1" width="160" style="border-radius: 8px;" />
   <div>
     <p style="margin: 0;">
-      那天阳光刚好，你的笑刚好，我的心也刚刚好被你偷走了☀️💘
+      The sun was warm, your smile was brighter, and somehow, my heart was already yours. ☀️💘
     </p>
   </div>
 </div>
 
-<!-- 照片 2 -->
+<!-- Photo 2 -->
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 16px;">
   <img src="images/3.jpg" alt="sweet moment 2" width="160" style="border-radius: 8px;" />
   <div>
     <p style="margin: 0;">
-      在人海中，你一抬头的模样我永远记得，那就是我心动的样子💭💗
+      In a crowd full of strangers, the moment you looked up was the moment I fell. 💭💗
     </p>
   </div>
 </div>
 
-<!-- 照片 3 -->
+<!-- Photo 3 -->
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 16px;">
   <img src="images/4.jpg" alt="sweet moment 3" width="160" style="border-radius: 8px;" />
   <div>
     <p style="margin: 0;">
-      谢谢你陪我走过四季，这一生有你，就已经很圆满了🌸❄️🍂🌞
+      Thank you for walking through all four seasons with me — with you, life is already complete. 🌸❄️🍂🌞
     </p>
   </div>
 </div>
