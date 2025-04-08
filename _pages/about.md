@@ -85,19 +85,48 @@ Shu Pu\*, Yaochen Wang\*, Dongping Chen\*, Yuhang Chen\*, Guohao Wang\*, Qi Qin\
 I have been collaborating with [Yao Wan](http://wanyao.me), Yi Gui on research in UI Intelligence. Additionally, I have been working alongside Yao Wan and Dongping Chen on MLLM-as-a-Judge. Looking ahead, I aspire to delve into MCTS-UI.
 -->
 
-## 💖 Boyfriend
+## 🍓 Boyfriend
 
-<div style="display: flex; align-items: center; gap: 16px; margin-bottom: 12px;">
+<!-- 主照片 -->
+<div style="display: flex; align-items: center; gap: 16px; margin-bottom: 20px;">
   <img src="images/profile2.png" alt="boyfriend" width="200" style="border-radius: 12px;" />
   <div>
-    <p>
-    My handsome boyfriend 💖💖💖✨
+    <p style="margin: 0;">
+      <em>• 2024.10</em><br />
+      My handsome boyfriend 💖💖💖✨<br />
+      我心里永远的第一名！
     </p>
   </div>
 </div>
 
-<img src="images/image.png" width="160" style="margin: 4px; border-radius: 8px;" />
-<img src="images/3.png" width="160" style="margin: 4px; border-radius: 8px;" />
-<img src="images/4.png" width="160" style="margin: 4px; border-radius: 8px;" />
+<!-- 照片 1 -->
+<div style="display: flex; align-items: center; gap: 16px; margin-bottom: 16px;">
+  <img src="images/image.png" alt="sweet moment 1" width="160" style="border-radius: 8px;" />
+  <div>
+    <p style="margin: 0;">
+      那天阳光刚好，你的笑刚好，我的心也刚刚好被你偷走了☀️💘
+    </p>
+  </div>
+</div>
+
+<!-- 照片 2 -->
+<div style="display: flex; align-items: center; gap: 16px; margin-bottom: 16px;">
+  <img src="images/3.png" alt="sweet moment 2" width="160" style="border-radius: 8px;" />
+  <div>
+    <p style="margin: 0;">
+      在人海中，你一抬头的模样我永远记得，那就是我心动的样子💭💗
+    </p>
+  </div>
+</div>
+
+<!-- 照片 3 -->
+<div style="display: flex; align-items: center; gap: 16px; margin-bottom: 16px;">
+  <img src="images/4.png" alt="sweet moment 3" width="160" style="border-radius: 8px;" />
+  <div>
+    <p style="margin: 0;">
+      谢谢你陪我走过四季，这一生有你，就已经很圆满了🌸❄️🍂🌞
+    </p>
+  </div>
+</div>
 
 
