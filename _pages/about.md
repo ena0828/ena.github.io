@@ -41,8 +41,6 @@ Yi Gui\*, Yao Wan†, Zhen Li\*, **Zhongyi Zhang**\*, Dongping Chen, Hongyu Zhan
 </div>
 
 # 🍀 In Submission
-<!-- 
--->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/LaTCoder.png' alt="LaTCoder" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -77,9 +75,9 @@ Shu Pu\*, Yaochen Wang\*, Dongping Chen\*, Yuhang Chen\*, Guohao Wang\*, Qi Qin\
 - *2022.09 - 2026.06(expected)*,  BEng., Huazhong University of Science and Technology
 
 
-<!-- 
+
 # 💬 Invited Talks
--->
+
 
 # 💻 Internships
 - *2024.05 - Present*, Research Internship in One lab at HUST
