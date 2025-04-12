@@ -144,9 +144,6 @@ I have been collaborating with [Yao Wan](http://wanyao.me), Yi Gui on research i
     Every day, with you 💖
   </div>
 
-  <div style="text-align: center; margin-top: 16px;">
-    <img src="images/love_note.png" alt="love note" width="120" style="border-radius: 8px;" />
-  </div>
 
 </div>
 
