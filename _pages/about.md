@@ -91,7 +91,6 @@ I have been collaborating with [Yao Wan](http://wanyao.me), Yi Gui on research i
   <img src="images/profile2.png" alt="boyfriend" width="200" style="border-radius: 12px;" />
   <div>
     <p style="margin: 0;">
-      <em>• Oct 2024</em><br />
       My handsome boyfriend 💖💖💖✨<br />
       Forever the No.1 in my heart!
     </p>
@@ -126,6 +125,29 @@ I have been collaborating with [Yao Wan](http://wanyao.me), Yi Gui on research i
       Thank you for walking through all four seasons with me — with you, life is already complete. 🌸❄️🍂🌞
     </p>
   </div>
+</div>
+
+
+<div style="padding: 16px; border-radius: 12px; border: 1px solid #ffb6c1; background: #fff0f5; margin-top: 24px;">
+
+  <div style="text-align: center; font-size: 16px; font-style: italic; line-height: 1.8;">
+    I can love you for four days —<br />
+    Spring, summer, autumn and winter 🌸☀️🍂❄️<br /><br />
+
+    Maybe three days —<br />
+    Yesterday, today and tomorrow ⏳<br /><br />
+
+    How about two days?<br />
+    Day and night 🌙<br /><br />
+
+    One day is enough:<br />
+    Every day, with you 💖
+  </div>
+
+  <div style="text-align: center; margin-top: 16px;">
+    <img src="images/love_note.png" alt="love note" width="120" style="border-radius: 8px;" />
+  </div>
+
 </div>
 
 
